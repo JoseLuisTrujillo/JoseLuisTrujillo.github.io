@@ -568,7 +568,7 @@ li a.active, li a:hover {
             width: 300px;
             margin-left: 10px;
             position: relative;
-            bottom: -310px;
+            bottom: -345px;
             left: -310px;
             
         }
@@ -665,7 +665,8 @@ li a.active, li a:hover {
             width: 300px;
             margin-left: 10px;
             position: relative;
-            bottom: -1930px;
+            bottom: -2370px;
+            left: -1850px;
             
         }
         
@@ -673,7 +674,7 @@ li a.active, li a:hover {
         
             position: relative;
             font-size: 20px;
-            top: 2840px;
+            top: 2870px;
             margin-left: 10px;
         
         }
@@ -683,8 +684,8 @@ li a.active, li a:hover {
             width: 300px;
             margin-left: 10px;
             position: relative;
-            bottom: -2300px;
-            left: -310px;
+            bottom: -2800px;
+            left: -2170px;
             
         }
         
